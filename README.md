@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=zapalblizh&label=Profile%20views&color=0e75b6&style=flat" alt="zapalblizh" />
+</p>
+
+<h1>Aleksandr Zapparov</h1>
+<p>Student</p>
+
+![Aleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=zapalblizh&show_icons=true)
