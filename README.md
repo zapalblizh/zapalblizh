@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=zapalblizh&show_icons=true&theme=dark&count_private=true"
+  srcset="https://github-readme-stats.zappa.dev/api?username=zapalblizh&show_icons=true&theme=dark&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=zapalblizh&show_icons=true&count_private=true"
+  srcset="https://github-readme-stats.zappa.dev/api?username=zapalblizh&show_icons=true&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=zapalblizh&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.zappa.dev/api?username=zapalblizh&show_icons=true&count_private=true" />
 </picture>
 
